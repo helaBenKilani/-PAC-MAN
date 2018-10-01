@@ -1,0 +1,9 @@
+1efac2,::1,GET,http://localhost/PacMan/web/app_dev.php/login,1538427728,85715c,200
+85715c,::1,GET,http://localhost/PacMan/web/app_dev.php/login,1538427728,,404
+5fe1ac,::1,GET,http://localhost/PacMan/web/app_dev.php/register,1538427763,9fa6ff,200
+9fa6ff,::1,GET,http://localhost/PacMan/web/app_dev.php/register,1538427763,,404
+d24452,::1,GET,http://localhost/PacMan/web/app_dev.php/,1538427773,,200
+3ca3b1,::1,GET,http://localhost/PacMan/web/app_dev.php/login,1538428028,e31981,200
+e31981,::1,GET,http://localhost/PacMan/web/app_dev.php/login,1538428028,,404
+68c5a1,::1,GET,http://localhost/PacMan/web/app_dev.php/logout,1538428193,c2e6f5,200
+c2e6f5,::1,GET,http://localhost/PacMan/web/app_dev.php/logout,1538428194,,404
